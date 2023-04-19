@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'jost',sans-serif;
+    font-weight: 400;
+}
+
+html{
+    font-size: 62.5%;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar{
+    width: 100%;
+    height: 4rem;
+    background-color: blueviolet;
+    box-shadow: .2rem .2rem .5rem #555;
+  }
+  
+  .navbar-link{
+    font-size: 1.7rem;
+    font-weight: 600;
+    color:   #333;
+    margin: 0 3rem;
+    letter-spacing: .3rem;
+    text-transform: uppercase;
+    position: relative;
+    transition: color 0.2;
+  }
+
+  .contact {
+    width: 100%;
+    height: 100vh;
+    background-color: #272727;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact-wrapper {
+    width: 60%;
+    height: 75rem;
+    display: flex;
+    box-shadow: 0 3rem 7rem rgba(0, 0, 0, 0.5);
+  }
+  
+  .contact-left {
+    width: 35%;
+    background: linear-gradient(rgba(15, 15, 15, 0.6), rgba(22, 22, 22, 0.9)),
+      url(images/contact-bg.jpg) center no-repeat;
+    background-size: cover;
+  }
+  
+  .contact-right {
+    width: 65%;
+    background-color: #eee;
+    padding: 3rem 10rem 10rem 10rem;
+  }
+  
+  .contact-heading {
+    font-family: "Baloo Da 2", serif;
+    font-size: 6rem;
+    font-weight: 300;
+    color: #272727;
+    margin-bottom: 5rem;
+    text-align: center;
+  }
+  
+  .contact-right form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
