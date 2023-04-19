@@ -23,5 +23,11 @@ The file structure for this project is as follows:
 ├── public/               # static assets (CSS, images, etc.)
 └── views/                # server-side views
 
+![image](https://user-images.githubusercontent.com/88281253/233129039-f604d7dc-4258-42fd-b8ca-0c796eb0d6ff.png)
+![image](https://user-images.githubusercontent.com/88281253/233129116-3451a90b-0f0e-4397-9097-c1a2ac4497ce.png)
+![image](https://user-images.githubusercontent.com/88281253/233129163-2900792c-a25c-48f3-9371-b9c3b8f6e2d9.png)
+![image](https://user-images.githubusercontent.com/88281253/233129193-df0d75c4-f971-4007-a860-3836014a4fdd.png)
+
+
 **Acknowledgements**
 This website was created by Aayush Gupta for the purpose of demonstrating the features of the Bike Selling platform. Special thanks to the developers of Node.js, Express, MongoDB, Mongoose, and Bootstrap for their excellent tools and documentation.
